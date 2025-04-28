@@ -17,6 +17,8 @@
 
 **Installation Instructions**: 
 - Due to the large file size of the data, please find all the data in Harvard Dataverse (https://doi.org/10.7910/DVN/GIOAZY).
+    - Make sure the **sdoh_2020_tract_1_0.xlsx** and **sdoh_2020_tract_1_0_data.csv** are in the data folder.
+    - The shapefiles are already in the data folder.
 - All code is in the "thicc.ipynb" Jupyter notebook.
 - External libraries used:
     - geopandas - Pandas DataFrames with geometry support
